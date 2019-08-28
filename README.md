@@ -3,17 +3,17 @@ This repository contains self explanatory Jupyter notebook sheets to understand 
 
 Topics covered
 
-  1.Selecting columns from dataframe
+  1.Selecting columns from dataframe.
  
-  2.Adding new column to the dataframe
+  2.Adding new column to the dataframe.
  
-  3.Handling null values using dropna() and fillna()
+  3.Handling null values using dropna() and fillna().
   
-  4.Dataframe column type conversion
+  4.Dataframe column type conversion.
   
-  5.Dataframe sorting
+  5.Dataframe sorting.
   
-  6.Dataframe ranking
+  6.Dataframe ranking.
   
-  7.Broadcasting operations
+  7.Broadcasting operations.
   
