@@ -17,3 +17,10 @@ Topics covered
   
   7.Broadcasting operations.
   
+  8.Dataframe filtering
+  
+  9.The drop_duplicates() method
+  
+  10.The unique() and nunique() methods
+  
+  11.Dataframe memory optimization
